@@ -4,6 +4,7 @@
     {
         public string DoPayment()
         {
+
             return "Nakit Ödeme";  
         }
     }
