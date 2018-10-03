@@ -1,6 +1,6 @@
 Dependency Injection Örneği
 
-- İşlemler için Core, Ui için Console App. katmanı oluşturuldu.
+- İşlemler için Core, Ui için Mvc web katmanı oluşturuldu.
 - Her bir ödeme tipi için Core.Repository içerisinde class oluşturuldu.
 - Ödeme tiplerinin implemente olduğu Ipayment interface oluşturuldu.
 - Dependency Injection tasarım deseni kullanılarak IPayment özelliği olan DoPayment() methodu çağırıldı.
